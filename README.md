@@ -13,5 +13,6 @@ aws s3 ls
 
 aws s3 ls <nome-storage>
 ## subir um arquivo para o s3
+aws s3 cp <arquivo> <url-storage-s3>
 
 
